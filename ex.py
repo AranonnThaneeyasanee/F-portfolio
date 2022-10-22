@@ -1,0 +1,13 @@
+a=input()
+b=input()
+c=input()
+d=input()
+e=input()
+
+print("THAI =" ,a)
+print("MATH =" ,b)
+print("ENGLISH =",c)
+print("SCIENCE =",d)
+print("SPORT =",e)
+print("---")
+print("GPA =" ,(a+b+c+d+e)/str(5))
